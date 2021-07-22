@@ -14,8 +14,6 @@ category: Portfolio
 excerpt: Ideation and implementation of an improved UX for a 'none airport' search traffic which resulted in a 8% increase in conversion rates.
 ---
 
-![RentalCars logo](/img/logos/rc-logo.png)
-
 Rentalcars.com is a car rental agency which allows a user to book a hire car from numerous partner branches located throughout the world. The branches are primarily located near airports and this is where users generally pick-up and drop-off their hire cars.
 
 ## The problem

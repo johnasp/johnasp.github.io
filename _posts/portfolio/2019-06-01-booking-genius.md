@@ -14,22 +14,12 @@ category: Portfolio
 excerpt: Mobile and desktop eCommerce interaction design - integrating new 'genius' loyalty program for Booking.com Transport division.
 ---
 
-<strong>UX Designer</strong> on a project to formulate solutions, concepts and designs for the new "Genius" user loyalty program.
+UX & Designer on a project to conceptualise a new "Genius" user loyalty program for Booking.com, transport division.  Completed the following tasks:
 
-### Web flow diagrams
-
-The following are the user journey flow diagrams I designed to illustrate the proposed new user journey. I also used the design artifacts to make the interactive prototype, a demo of which is embedded below:
-
-<p><a href="/pdf/genius-end-end.pdf">1. The end-to-end web flow of the Genius concept</a></p>
-
-<p><a href="/pdf/genius-amend-date.pdf">2. Amend booking - date & time</a></p>
-
-<p><a href="/pdf/genius-amend-extras.pdf">3. Amend booking - add extras </a></p>
-
-### Prototype
-
-Genius prototype demo:
+* Web flow diagrams to illustrate the proposed user journeys.  <a href="/pdf/genius-amend-extras.pdf">Sample of the 'amend booking' web flow diagram can be viewed here.</a> 
+* UI design screens of the above journeys, utlising the company design system.
+* Designed prototype for the Genius program mobile app, video demo below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EDh9_Y3vKhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Full write up of the project coming soon...
+
