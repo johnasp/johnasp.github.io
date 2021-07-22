@@ -11,7 +11,7 @@ role: UI Designer
 tasks: Ideation, visual design, user flows, prototypes
 caption: Booking.com
 category: Portfolio
-excerpt: Mobile and desktop eCommerce interaction design - integrating new 'genius' loyalty program for Booking.com Transport division.
+excerpt: Mobile web application UI design and prototype production for Booking.com which helped launch a new product. 
 ---
 
 ## Project Overview
@@ -28,7 +28,7 @@ Worked in a multi-disciplinary agile project team composed of BA’s, UX Designe
 * UI design screens of the above journeys, utlising the company design system.
 * Designed prototype for the Genius program mobile app, video demo below.
 
-<iframe style="margin-top: 40px" width="560" height="315" src="https://www.youtube.com/embed/EDh9_Y3vKhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="margin-top: 40px; margin-bottom: 40px;" width="560" height="315" src="https://www.youtube.com/embed/EDh9_Y3vKhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Results
 
