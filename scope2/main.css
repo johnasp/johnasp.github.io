@@ -1470,6 +1470,7 @@ html {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  z-index: 1;
 }
 
 .available-feeds__feed.feed-active .available-feeds__feed__icon.available-feeds__feed__icon-mic, .available-feeds__feed.feed-active .available-feeds__feed__icon.available-feeds__feed__full-screen {
@@ -1686,6 +1687,7 @@ html {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
+  background: #1a6b81;
 }
 
 .scope-main {
@@ -1729,12 +1731,15 @@ html {
 }
 
 .scope-main__feed .scope-main__feed__video video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   width: 100%;
-  height: auto;
+  height: 100%;
   -o-object-fit: cover;
      object-fit: cover;
-  max-width: 125rem;
-  max-height: 77rem;
 }
 
 .scope-main__feed .scope-main__feed-recording {
@@ -1845,14 +1850,13 @@ html {
   cursor: pointer;
 }
 
-.scope-main__data-feeds .scope-main__data-feed img, .scope-main__data-feeds .scope-main__data-feed video {
-  height: 20rem;
+.scope-main__data-feeds .scope-main__data-feed video {
   width: 100%;
 }
 
 .scope-main__data-feeds .scope-main__data-feed i {
   position: absolute;
-  top: 0.6rem;
+  top: 1%;
   color: #01ccd3;
   font-size: 2.5rem;
   width: 4.2rem;
@@ -1869,11 +1873,11 @@ html {
 }
 
 .scope-main__data-feeds .scope-main__data-feed i.scope-main__data-feed__full-screen {
-  left: 0.6rem;
+  left: 1%;
 }
 
 .scope-main__data-feeds .scope-main__data-feed i.scope-main__data-feed__ellipsis {
-  right: 0.6rem;
+  right: 1%;
 }
 
 .scope-main__data-feeds .scope-main__data-feed i:hover {
