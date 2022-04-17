@@ -31,13 +31,12 @@ Team members John Aspinall - UX Designer
 Khalid Lee Conway - Product Owner
 Multiple people - Developers
 ```
+### The problem
 
 Rentalcars.com is a car rental agency that allows a user to book a hire car from
 numerous partner branches located throughout the world. The branches are
 primarily located near airports and this is where users generally pick up and
 drop off their hire cars.
-
-## The problem
 
 There are occasions, when a user would search to pick up the car
 from non-airport locations, such as a city e.g. London, Manchester, etc. On
@@ -48,7 +47,7 @@ where in the city the user wanted to pick up the car from. There was a
 hypothesis from the business that this was the reason conversion rates were
 significantly lower than ‘airport’ searching users.
 
-## My role & responsibilities
+### Role & responsibilities
 
 I was to deliver a UX change to the main car search component, in order
 to encourage the user to enter a precise pickup location when performing a
@@ -63,7 +62,7 @@ to encourage the user to enter a precise pickup location when performing a
     development work.
 4. Collaborate with product development and engineering teams to research, design and implement this project.
 
-## Competitor research
+### Competitor research
 
 To kick start the ideation process, I performed a non-airport search on the main
 competitors' sites and took relevant screenshots from each site.
@@ -79,7 +78,7 @@ _[Figure: Potential solutions]_
 I did this to give the ideas visibility and to encourage discussion on the most
 suitable solution(s) in the meetings.
 
-## Wireframes & Sketching
+### Wireframes & Sketching
 
 After distilling the customer research and shortlisting some approaches, I
 created low-fidelity wireframes in order to iterate through design
@@ -118,7 +117,7 @@ We chose this solution to take to design and prototype for the reasons:
     budget. The user would also have to specifically allow the browser to
     access their GPS location, which may have caused issues.
 
-## Visual Design
+### Visual Design
 
 Following agreement on which approach to take, I designed high fidelity screen
 mockups with two variations on the style of the new search field. 
@@ -146,17 +145,9 @@ I also added the common ‘tool tip’ icon next to the form label with an
 information panel appearing on hover/click, the purpose of which was to explain
 what the function of this field was to the user. I felt this would be quite important to include as it may not be obvious what the purpose of this field was.
 
-## Prototype
+### User Testing 
 
-I used the visuals above to create to create a couple of clickable prototypes illustrating the two new users journies.  The prototypes were used to be both illustrate the potenital solutions to stakeholders, and also in the user testing sesssions. 
-
-Included here [is a link to the prototype based on Solution 1 above](https://www.sketch.com/s/116913bf-ef7d-4a6d-a67a-a1e5cea23e80/a/xnoDyW/play)
-which is the the design with the blue border and tab around the secondary search input field.
-
-## User Testing & Personas
-
-I had to glean insights in order to validate (or not) that the proposed solution
-would achieve the project goal and that users would understand how to use the interface.  To achieve this, I set up a user testing session using the ‘What users do’ online platform and setup two distict user groups, each with a seperate car pick up point.
+I had to glean insights in order to validate (or not) that the proposed solution would achieve the project goal and that users would understand how to use the interface.  To achieve this, I set up a user testing session using the ‘What users do’ online platform and setup two distict user groups, each with a seperate car pick up point.
 
 1. Group A - I assigned their pick up point as ‘Euston station’.
 2. Group B - I assigned their pick up point as ‘London’.
@@ -169,7 +160,10 @@ pick up the car? What would they do?
 I ran the test on fifty test subjects, three of which adopted the persona ‘A’ group, and the
 other three personas ‘B’.
 
-### User Testing Observations
+Included here [is a link to the prototype based on Solution 1 above](https://www.sketch.com/s/116913bf-ef7d-4a6d-a67a-a1e5cea23e80/a/xnoDyW/play)
+which is the the design with the blue border and tab around the secondary search input field.
+
+### Observations
 
 The following was a selection of the feedback received from the user testing sessions:
 
@@ -224,7 +218,7 @@ The main takeaway points from the user testing were:
 
 The insights obtained from the user testing helped in selecting a design option.  The blue border and tab in solution one made it appear as if the field was mandatory (it wasn't) and we didn’t want users potential dropping out of the funnel at this critical stage, so decided to drop solution one and go with solution two.
 
-## Project Learnings
+### Learnings
 
 1. It’s very easy to get married to a design solution and adopt a blinkered “it's
 my baby” attitude. Just because an interaction pattern is obvious to you
