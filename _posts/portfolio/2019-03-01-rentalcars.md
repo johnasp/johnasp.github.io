@@ -75,6 +75,7 @@ and stuck them on the wall in a discovery meeting with stakeholders and
 developers.
 
 <img src="/img/rc/na cards.png">
+_[Figure: Potential solutions]_
 
 I did this to give the ideas visibility and to encourage discussion on the most
 suitable solution(s) in the meetings.
@@ -90,7 +91,7 @@ low-fidelity wireframes which I used as a starting point to discuss the most
 suitable option to solve the problem.
 
 <img src="/img/rc/na wires.png">
-_[Figure 1: Sketched wireframes for potential solutions]_
+_[Sketched wireframes of solutions]_
 
 Following a review of the wireframes, it was agreed that we go with the following
 solution:
@@ -123,20 +124,25 @@ We chose this solution to take to design and prototype for the reasons:
 Following agreement on which approach to take, I designed high fidelity screen
 mockups with two variations on the style of the new search field. 
 
-In my first variation _[figure 4]_ below, I added a blue border and step tab around a
+In the first variation, I added a blue border and step tab around a
 new secondary search field called “tailor pick up point”. The purpose of this was
 to visually draw the users' eyes to the field to encourage them to complete it.
 Although the field was not mandatory, a project goal was to encourage
 interaction with this field and obtain accurate pick up location data.
 
-_[Figure 4: Design solution 1]_
-The second variation _[Figure 5]_ below featured the secondary field in a more
+<img src="/img/rc/na-search-mockup-1.png">
+_[Solution 1 : Design mockup 1]_
+
+The second variation featured the secondary field in a more
 a subtle way that mirrored the design pattern of the existing search field.
 
-_[Figure 5: Design solution 2]_
+<img src="/img/rc/na-search-mockup-2.png">
+_[Solution 2 : Design mockup 2]_
+
 I visually grouped both the search fields (on both solutions) with an existing
 dotted border style which was already present on the page too. This was to
 ensure design consistency and not put an additional cognitive load on the user.
+
 I also added the common ‘tool tip’ icon next to the form label with an
 information panel appearing on hover/click, the purpose of which was to explain
 what the function of this field was to the user. I felt this would be quite important to include as it may not be obvious what the purpose of this field was.
