@@ -31,7 +31,6 @@ Team members John Aspinall - UX Designer
 Khalid Lee Conway - Product Owner
 Multiple people - Developers
 ```
-## The client
 
 Rentalcars.com is a car rental agency that allows a user to book a hire car from
 numerous partner branches located throughout the world. The branches are
@@ -40,7 +39,7 @@ drop off their hire cars.
 
 ## The problem
 
-There are occasions, however, when the user would search to pick up the car
+There are occasions, when a user would search to pick up the car
 from non-airport locations, such as a city e.g. London, Manchester, etc. On
 these occasions, the user would mostly type a city name as their pick up point.
 This caused a problem for both the user and the client as RentalCars were not
@@ -51,7 +50,7 @@ significantly lower than ‘airport’ searching users.
 
 ## My role & responsibilities
 
-I was to delivr a UX change to the main car search component, in order
+I was to deliver a UX change to the main car search component, in order
 to encourage the user to enter a precise pickup location when performing a
 “non-airport search”.  These were the specific goals:
 
@@ -131,13 +130,13 @@ Although the field was not mandatory, a project goal was to encourage
 interaction with this field and obtain accurate pick up location data.
 
 <img src="/img/rc/na-search-mockup-1.png">
-_[Solution 1 : Design mockup 1]_
+_[Solution 1 : New input field with blue border and tab ]_
 
 The second variation featured the secondary field in a more
 a subtle way that mirrored the design pattern of the existing search field.
 
 <img src="/img/rc/na-search-mockup-2.png">
-_[Solution 2 : Design mockup 2]_
+_[Solution 2  : New input field with similar design]_
 
 I visually grouped both the search fields (on both solutions) with an existing
 dotted border style which was already present on the page too. This was to
@@ -149,23 +148,15 @@ what the function of this field was to the user. I felt this would be quite impo
 
 ## Prototype
 
-I produced two high fidelity prototypes in order to illustrate the user journey to
-stakeholders and to facilitate and validate the solutions in a user testing session.
-One prototype had a blue border and steps _[Figure 4]_ and the other without
-the blue border _[Figure 5]._ Included below is a link to the prototype based on
-_[Figure 4]_, the design with the blue border and tab around the secondary search
-field
+I used the visuals above to create to create a couple of clickable prototypes illustrating the two new users journies.  The prototypes were used to be both illustrate the potenital solutions to stakeholders, and also in the user testing sesssions. 
 
-[Click this link to access the prototype.](https://sketch.cloud/s/Jr0a0/a/xnoDyW/play)
+Included here [is a link to the prototype based on Solution 1 above](https://www.sketch.com/s/116913bf-ef7d-4a6d-a67a-a1e5cea23e80/a/xnoDyW/play)
+which is the the design with the blue border and tab around the secondary search input field.
 
 ## User Testing & Personas
 
-I had to glean usability insights in order to validate that the proposed solution
-would achieve the project goal. To achieve this, I set up a user testing session
-using the ‘What users do’ online platform.
-
-To facilitate the session, I wrote two user personas and gave each group a
-specific goal.
+I had to glean insights in order to validate (or not) that the proposed solution
+would achieve the project goal and that users would understand how to use the interface.  To achieve this, I set up a user testing session using the ‘What users do’ online platform and setup two distict user groups, each with a seperate car pick up point.
 
 1. Group A - I assigned their pick up point as ‘Euston station’.
 2. Group B - I assigned their pick up point as ‘London’.
@@ -175,10 +166,12 @@ B would behave when they only know the name of the city as a pick up point. If
 a user has zero local knowledge of a city, how would they know where exactly to
 pick up the car? What would they do?
 
-I ran the test on six people, three of which adopted the persona ‘A’ group, and the
+I ran the test on fifty test subjects, three of which adopted the persona ‘A’ group, and the
 other three personas ‘B’.
 
-### User testing - results & observations
+### User Testing Observations
+
+The following was a selection of the feedback received from the user testing sessions:
 
 **Persona Group B - ‘Euston’ search** 
 *Started typing in London in the primary search field to begin with.
@@ -220,31 +213,16 @@ other three personas ‘B’.
 *Didn't think it was clear what he had to do until he read the tooltip.
 *Didn't think to just hit search.
 
-### User testing - insights
+### Insights
 
 The main takeaway points from the user testing were:
 
-1. Everyone felt compelled to enter something in the ‘tailor pick up point’
-box and not one person thought to just hit search and see everything in
-London.
+1. Everyone felt compelled to enter something in the ‘tailor pick up point’ box and not one person thought to just hit search and see everything in London.
 2. Only one person went to type ‘Euston’ in the primary search field.
-3. A couple of people seem confused by the secondary search field until they
-clicked the help icon.
-4. The majority of users reported that they thought the second field
-was mandatory, particularly in the design variation where the field had a
-blue border and tab around it.
+3. Several users seem confused by the secondary search field until they clicked the help icon, we had assumed it would be obvious what to do here!
+4. The majority of users reported that they thought the second field was mandatory, particularly in the design variation where the field had a blue border and tab around it.
 
-The insights obtained from the usability testing helped in selecting a design
-option. The product owner and I decided to select the second design option,
-without the blue borer and tab. 
-
-The user feedback on this option was that the blue border and tab made it appear as if the field was mandatory and this was
-not the case as the field was optional. We didn’t want users dropping out of the
-funnel at this early stage because of this so decided to drop it.
-
-We all agreed another prototype iteration was unnecessary and would be a
-waste of time and therefore moved forward with design option two _[Figure 5]_
-into development.
+The insights obtained from the user testing helped in selecting a design option.  The blue border and tab in solution one made it appear as if the field was mandatory (it wasn't) and we didn’t want users potential dropping out of the funnel at this critical stage, so decided to drop solution one and go with solution two.
 
 ## Project Learnings
 
@@ -276,7 +254,7 @@ enjoyed seeing how users interacted with my designs, even though they
 did not behave exactly as I thought they might!
 
 # Result
-<div style="background: #eaeaea; border: 1px solid black; padding: 12px;">
+<div style="background-color: #feffe5d4; border: 1px solid #f39c12; padding: 12px;">
 When development and QA were complete, the new search component was initially run in production as an A/B experiment where 50% of users performing the non-airport search got the original search component and the other 50% got the new secondary search field. The experiment ran for four weeks and the results can be found in the ‘result’ section at the end of this document.
 
 Before we turned on the experiment, we measured the conversion rate of each user who went on to book a car and performed a non-airport location search. When we turned the experiment on, we saw **conversion rates jump up by 8%** over a two week period of testing. We also saw engagement and the number of interactions on each screen - increase.
