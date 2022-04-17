@@ -14,7 +14,7 @@ category: Portfolio
 excerpt: Ideation and implementation of an improved UX for a 'none airport' search traffic which resulted in a 8% increase in conversion rates.
 ---
 
-# Non-airport search UX
+# Non-airport Car search UX
 
 ```
 Client RentalCars.com
@@ -153,33 +153,29 @@ field
 
 [Click this link to access the prototype.](https://sketch.cloud/s/Jr0a0/a/xnoDyW/play)
 
-## User Testing
+## User Testing & Personas
 
 I had to glean usability insights in order to validate that the proposed solution
 would achieve the project goal. To achieve this, I set up a user testing session
 using the ‘What users do’ online platform.
+
 To facilitate the session, I wrote two user personas and gave each group a
 specific goal.
-● Group A - I assigned their pick-up point as ‘Euston train station’.
+
+● Group A - I assigned their pick-up point as ‘Euston station’.
 ● Group B - I assigned their pick-up point as ‘London’.
+
 I created these two groups as I wanted to gain insights into how users in Group
 B would behave when they only know the name of the city as a pick-up point. If
 a user has zero local knowledge of a city, how would they know where exactly to
 pick up the car? What would they do?
+
 I ran the test on six people, three of which adopted the persona ‘A’ group, and the
 other three personas ‘B’.
 
-### Personas
+### User testing - results & observations
 
-```
-● Persona A - ‘Dave’ was a desktop user whose search goal was to get a
-rental ‘London’
-● Persona B - ‘Claire’ was a desktop user who knew they wanted to
-specifically, pick up at ‘London Euston train station’.
-```
-### User testing results & observations
-
-1. **Persona B** - ‘Euston’ pick-up:
+**Persona B** - ‘Euston’ pick-up:
     ● Started typing in London in the primary search field to begin with.
     ● Then started typing in Euston in the secondary field. Thought it was
        obvious that was what you were meant to do.
@@ -189,23 +185,25 @@ just wanted the generic location in London”, she said she didn't
 know what to do and just said, “Surely I know where I am picking up
 from?”.
 ● Did not cross my mind to just hit search.
-```
-2. **Persona A** - ‘London’ pick-up:
+
+**Persona A** - ‘London’ pick-up:
     ● talked through, said he would choose London and then did so
     ● When the second box type came in he said he would just think of
        place in London that is central
     ● Did not cross his mind to just hit search
     ● When seeing the multiple choices for Euston on the interface, he
        thought customers could get confused and choose the wrong one.
-3. **Persona B** - ‘Euston’ pick-up:
-    ● Starting typing - Said he would type in Euston immediately. _
+
+ **Persona B** - ‘Euston’ pick-up:
+     ● Starting typing - Said he would type in Euston immediately. _
        prototype goes straight to London generic
     ● When the second box came up - said he would search for Euston
        immediately.
     ● When asked, if you didn't know where in London to pick up - he said
        he would find somewhere in London he wanted to pick up
     ● Did not think to just hit search and search for all of London
-4. **Persona A** - ‘London’ pick-up:
+
+**Persona A** - ‘London’ pick-up:
     ● Started to type in London
     ● When the second box appeared, she said she would want to type in
        her hotel or where it is she is staying
@@ -214,7 +212,8 @@ from?”.
     ● She said she would check google maps beforehand if there was a
        drop-down list and didn't know what the locations are
     ● Didn't think to just hit search and search for all of London
-5. **Persona B** - ‘Euston’ pick-up:
+
+**Persona B** - ‘Euston’ pick-up:
     ● Started typing, said he would have typed Euston station
        immediately, proto takes you to London
     ● When the second box appeared he said he would type in Euston
@@ -223,8 +222,7 @@ from?”.
     ● When asked, if he didn't know where in London he said he didn't
        know what he would do.
 
-
-6. **Persona A** - ‘London’ pick-up:
+**Persona A** - ‘London’ pick-up:
     ● Started to type in London - when the options appeared he said he
        would have chosen victoria station from the suggestions because
        that's something he knows.
@@ -236,60 +234,63 @@ from?”.
     ● Didn't think it was clear what he had to do until he read the tooltip.
 ● Didn't think to just hit search.
 
-## Testing insights
+### User testing - insights
 
 The main takeaway points from the user testing were:
-● Everyone felt compelled to enter something in the ‘tailor pick-up point’
+
+1. Everyone felt compelled to enter something in the ‘tailor pick-up point’
 box and not one person thought to just hit search and see everything in
 London.
-● Only one person went to type ‘Euston’ in the primary search field.
-● A couple of people seem confused by the secondary search field until they
+2. Only one person went to type ‘Euston’ in the primary search field.
+3. A couple of people seem confused by the secondary search field until they
 clicked the help icon.
-● The majority of users reported that they thought the second field
+4. The majority of users reported that they thought the second field
 was mandatory, particularly in the design variation where the field had a
 blue border and tab around it.
+
 The insights obtained from the usability testing helped in selecting a design
 option. The product owner and I decided to select the second design option,
-without the blue borer and tab. The user feedback on this option was that the
-blue border and tab made it appear as if the field was mandatory and this was
-not the case, the field was optional. We didn’t want users dropping out of the
+without the blue borer and tab. 
+
+The user feedback on this option was that the blue border and tab made it appear as if the field was mandatory and this was
+not the case as the field was optional. We didn’t want users dropping out of the
 funnel at this early stage because of this so decided to drop it.
+
 We all agreed another prototype iteration was unnecessary and would be a
 waste of time and therefore moved forward with design option two _[Figure 5]_
 into development.
 
-## Learnings
+## Project Learnings
 
-```
-● It’s very easy to get married to a design solution and adopt a blinkered “it's
+1. It’s very easy to get married to a design solution and adopt a blinkered “it's
 my baby” attitude. Just because an interaction pattern is obvious to you
 and those around you, it may not be to the end-user and that is ultimately
 what can make or break the success of a project. You must always test your
 assumptions with users in order to validate your hypothesis, no matter
 how ‘right’ you think you are!
-● I learned that in a project with a short time frame, it is best to really
+2. I learned that in a project with a short time frame, it is best to really
 nail down exactly what the stakeholder requires. It was apparent the
 stakeholder had a specific idea of how to solve the problem and I could
 have saved some research time had this been more accurately
 communicated to me. I will double and treble check project requirements
 of this ilk in the future!
-● During the user research process, I was surprised to learn that users
+3. During the user research process, I was surprised to learn that users
 thought the new secondary field was mandatory, as it did have an
 asterisk attached to it - as is the usual design pattern to indicate this.
 Again, never assume anything, just because I know an element is a
 ‘globally recognised design pattern’, doesn’t mean that end-users think
 and know this.
-● The project had many challenges, but the most difficult piece was
+4. The project had many challenges, but the most difficult piece was
 communicating with the remote offshore development team in Minsk as
 they had broken English and sometimes conversations were difficult when
 spoken. Thankfully we were able to get everyone on Slack, which made
 back-and-forth changes and conversations much more fluid.
-● While the whole project was a great learning experience, I especially
+5. While the whole project was a great learning experience, I especially
 enjoyed seeing how users interacted with my designs, even though they
 did not behave exactly as I thought they might!
-```
 
-# The Result
+```
+# Result
 
 When development and QA were complete, the new search component was initially run in production as an A/B experiment where 50% of users performing the
 non-airport search got the original search component and the other 50% got the new secondary search field. The experiment ran for four weeks and the results
@@ -299,3 +300,4 @@ Before we turned on the experiment, we measured the conversion rate of
 each user who went on to book a car and performed a non-airport location
 search. When we turned the experiment on, we saw **conversion rates jump
 up by 8%** over a two week period of testing. We also saw engagement and the number of interactions on each screen - increase.
+```
