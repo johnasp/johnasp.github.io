@@ -14,7 +14,6 @@ category: Portfolio
 excerpt: Ideation and implementation of an improved UX for a 'none airport' search traffic which resulted in a 8% increase in conversion rates.
 ---
 
-# Non-airport Car search UX
 
 ```
 Client RentalCars.com
@@ -94,13 +93,13 @@ Following a review of the wireframes, it was agreed that we go with the followin
 solution:
 
 *Display a secondary search input text field (only for users in this type of
-search funnel), below the primary search field, called ‘ **tailor pick-up
+search funnel), below the primary search field, called ‘ **tailor pick up
 point’** which would only display when the user entered a non-airport
-pick-up location.
+pick up location.
 
 *This field would then allow the user to perform an auto-completed
 search term which contains major landmarks, districts and buildings
-(such as train stations) in order for them to provide their exact pick-up
+(such as train stations) in order for them to provide their exact pick up
 point.
 
 We chose this solution to take to design and prototype for the reasons:
@@ -125,10 +124,10 @@ The image below _[Figure 3]_ was the search component in its original state:
 
 _[Figure 3: Current search component]_
 In my first variation _[figure 4]_ below, I added a blue border and step tab around a
-new secondary search field called “tailor pick-up point”. The purpose of this was
+new secondary search field called “tailor pick up point”. The purpose of this was
 to visually draw the users' eyes to the field to encourage them to complete it.
 Although the field was not mandatory, a project goal was to encourage
-interaction with this field and obtain accurate pick-up location data.
+interaction with this field and obtain accurate pick up location data.
 
 _[Figure 4: Design solution 1]_
 The second variation _[Figure 5]_ below featured the secondary field in a more
@@ -162,11 +161,11 @@ using the ‘What users do’ online platform.
 To facilitate the session, I wrote two user personas and gave each group a
 specific goal.
 
-1. Group A - I assigned their pick-up point as ‘Euston station’.
-2. Group B - I assigned their pick-up point as ‘London’.
+1. Group A - I assigned their pick up point as ‘Euston station’.
+2. Group B - I assigned their pick up point as ‘London’.
 
 I created these two groups as I wanted to gain insights into how users in Group
-B would behave when they only know the name of the city as a pick-up point. If
+B would behave when they only know the name of the city as a pick up point. If
 a user has zero local knowledge of a city, how would they know where exactly to
 pick up the car? What would they do?
 
@@ -175,26 +174,21 @@ other three personas ‘B’.
 
 ### User testing - results & observations
 
-**Persona B** - ‘Euston’ pick-up:
-    *Started typing in London in the primary search field to begin with.
-    *Then started typing in Euston in the secondary field. Thought it was
-       obvious that was what you were meant to do.
-    *Found the interface easy to use.
-*When I asked; “If you didn't know you had to pick it up at Euston and
-just wanted the generic location in London”, she said she didn't
-know what to do and just said, “Surely I know where I am picking up
-from?”.
-*Did not cross my mind to just hit search.
+**Persona Group B - ‘Euston’ search** 
 
-**Persona A** - ‘London’ pick-up:
-*talked through, said he would choose London and then did so
-*When the second box type came in he said he would just think of
-       place in London that is central
-    *Did not cross his mind to just hit search
-    *When seeing the multiple choices for Euston on the interface, he
-       thought customers could get confused and choose the wrong one.
+* Started typing in London in the primary search field to begin with.
+* Then started typing in Euston in the secondary field. Thought it was obvious that was what you were meant to do.
+* Found the interface easy to use.
+* When I asked; “If you didn't know you had to pick it up at Euston and just wanted the generic location in London”, she said she didn't know what to do and just said, “Surely I know where I am picking up from?”.
+* Did not cross my mind to just hit search.
 
- **Persona B** - ‘Euston’ pick-up:
+**Persona Group A - ‘London’ search** 
+* Talked through, said he would choose London and then did so
+* When the second box type came in he said he would just think of place in London that is central
+* Did not cross his mind to just hit search
+* When seeing the multiple choices for Euston on the interface, he thought customers could get confused and choose the wrong one.
+
+**Persona Group B - ‘Euston’ search** 
      *Starting typing - Said he would type in Euston immediately. _
        prototype goes straight to London generic
     *When the second box came up - said he would search for Euston
@@ -203,7 +197,7 @@ from?”.
        he would find somewhere in London he wanted to pick up
     *Did not think to just hit search and search for all of London
 
-**Persona A** - ‘London’ pick-up:
+**Persona Group A - ‘London’ search** 
     *Started to type in London
     *When the second box appeared, she said she would want to type in
        her hotel or where it is she is staying
@@ -213,7 +207,7 @@ from?”.
        drop-down list and didn't know what the locations are
     *Didn't think to just hit search and search for all of London
 
-**Persona B** - ‘Euston’ pick-up:
+**Persona Group B - ‘Euston’ search** 
     *Started typing, said he would have typed Euston station
        immediately, proto takes you to London
     *When the second box appeared he said he would type in Euston
@@ -222,7 +216,7 @@ from?”.
     *When asked, if he didn't know where in London he said he didn't
        know what he would do.
 
-**Persona A** - ‘London’ pick-up:
+**Persona Group A - ‘London’ search** 
     *Started to type in London - when the options appeared he said he
        would have chosen victoria station from the suggestions because
        that's something he knows.
@@ -238,7 +232,7 @@ from?”.
 
 The main takeaway points from the user testing were:
 
-1. Everyone felt compelled to enter something in the ‘tailor pick-up point’
+1. Everyone felt compelled to enter something in the ‘tailor pick up point’
 box and not one person thought to just hit search and see everything in
 London.
 2. Only one person went to type ‘Euston’ in the primary search field.
