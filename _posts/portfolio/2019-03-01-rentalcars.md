@@ -175,57 +175,43 @@ other three personas ‘B’.
 ### User testing - results & observations
 
 **Persona Group B - ‘Euston’ search** 
-
-* Started typing in London in the primary search field to begin with.
-* Then started typing in Euston in the secondary field. Thought it was obvious that was what you were meant to do.
-* Found the interface easy to use.
-* When I asked; “If you didn't know you had to pick it up at Euston and just wanted the generic location in London”, she said she didn't know what to do and just said, “Surely I know where I am picking up from?”.
-* Did not cross my mind to just hit search.
+*Started typing in London in the primary search field to begin with.
+*Then started typing in Euston in the secondary field. Thought it was obvious that was what you were meant to do.
+*Found the interface easy to use.
+*When I asked; “If you didn't know you had to pick it up at Euston and just wanted the generic location in London”, she said she didn't know what to do and just said, “Surely I know where I am picking up from?”.
+*Did not cross my mind to just hit search.
 
 **Persona Group A - ‘London’ search** 
-* Talked through, said he would choose London and then did so
-* When the second box type came in he said he would just think of place in London that is central
-* Did not cross his mind to just hit search
-* When seeing the multiple choices for Euston on the interface, he thought customers could get confused and choose the wrong one.
+*Talked through, said he would choose London and then did so
+*When the second box type came in he said he would just think of place in London that is central
+*Did not cross his mind to just hit search
+*When seeing the multiple choices for Euston on the interface, he thought customers could get confused and choose the wrong one.
 
 **Persona Group B - ‘Euston’ search** 
-     *Starting typing - Said he would type in Euston immediately. _
-       prototype goes straight to London generic
-    *When the second box came up - said he would search for Euston
-       immediately.
-    *When asked, if you didn't know where in London to pick up - he said
-       he would find somewhere in London he wanted to pick up
-    *Did not think to just hit search and search for all of London
+*Started typing - Said he would type in Euston immediately - prototype goes straight to London generic
+*When the second box came up - said he would search for Euston immediately.
+*When asked, if you didn't know where in London to pick up - he said he would find somewhere in London he wanted to pick up
+*Did not think to just hit search and search for all of London
 
 **Persona Group A - ‘London’ search** 
-    *Started to type in London
-    *When the second box appeared, she said she would want to type in
-       her hotel or where it is she is staying
-    *She said it wasn't too obvious what it is she needed to do and
-       would prefer to see a drop-down list of locations
-    *She said she would check google maps beforehand if there was a
-       drop-down list and didn't know what the locations are
-    *Didn't think to just hit search and search for all of London
+*Started to type in London
+*When the second box appeared, she said she would want to type in her hotel or where it is she is staying
+*She said it wasn't too obvious what it is she needed to do and would prefer to see a drop-down list of locations
+*She said she would check google maps beforehand if there was a drop-down list and didn't know what the locations are
+*Didn't think to just hit search and search for all of London
 
 **Persona Group B - ‘Euston’ search** 
-    *Started typing, said he would have typed Euston station
-       immediately, proto takes you to London
-    *When the second box appeared he said he would type in Euston
-    *From the choices that came, he said it wasn't obvious that Euston
-       was the station on not a town. (he missed the label station)
-    *When asked, if he didn't know where in London he said he didn't
-       know what he would do.
+*Started typing, said he would have typed Euston station immediately, proto takes you to London
+*When the second box appeared he said he would type in Euston
+*From the choices that came, he said it wasn't obvious that Euston was the station on not a town. (he missed the label station)
+*When asked, if he didn't know where in London he said he didn't know what he would do.
 
 **Persona Group A - ‘London’ search** 
-    *Started to type in London - when the options appeared he said he
-       would have chosen victoria station from the suggestions because
-       that's something he knows.
-    *The second box appeared - he thought he lost his options - seemed
-       really puzzled about what to do
-    *After some questions said he would have typed in victoria stations
-       cos that's where he knows.
-    *Then hits search
-    *Didn't think it was clear what he had to do until he read the tooltip.
+*Started to type in London - when the options appeared he said he would have chosen victoria station from the suggestions because that's something he knows.
+*The second box appeared - he thought he lost his options - seemed really puzzled about what to do
+*After some questions said he would have typed in victoria stations cos that's where he knows.
+*Then hits search
+*Didn't think it was clear what he had to do until he read the tooltip.
 *Didn't think to just hit search.
 
 ### User testing - insights
