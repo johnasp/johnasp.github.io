@@ -51,9 +51,9 @@ significantly lower than ‘airport’ searching users.
 
 ## My role & responsibilities
 
-My goal was to deliver a UX change to the main car search component in order
+I was to delivr a UX change to the main car search component, in order
 to encourage the user to enter a precise pickup location when performing a
-“non-airport search” with these specific goals and requirements:
+“non-airport search”.  These were the specific goals:
 
 1. Improve conversion rates by at least 5% for users in this sales funnel.
 2. The change to the component had to be _only_ visible to users who
@@ -87,7 +87,9 @@ I held a brief meeting with the product owner and developer to present the
 low-fidelity wireframes which I used as a starting point to discuss the most
 suitable option to solve the problem.
 
+<img src="/img/rc/none-airport-wires.jpg">
 _[Figure 2: Sketched wireframes for potential solutions]_
+
 
 Following a review of the wireframes, it was agreed that we go with the following
 solution:
