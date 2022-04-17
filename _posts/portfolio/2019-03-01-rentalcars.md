@@ -276,8 +276,8 @@ enjoyed seeing how users interacted with my designs, even though they
 did not behave exactly as I thought they might!
 
 # Result
-```
+<div style="background: #eaeaea; border: 1px solid black; padding: 12px;">
 When development and QA were complete, the new search component was initially run in production as an A/B experiment where 50% of users performing the non-airport search got the original search component and the other 50% got the new secondary search field. The experiment ran for four weeks and the results can be found in the ‘result’ section at the end of this document.
 
 Before we turned on the experiment, we measured the conversion rate of each user who went on to book a car and performed a non-airport location search. When we turned the experiment on, we saw **conversion rates jump up by 8%** over a two week period of testing. We also saw engagement and the number of interactions on each screen - increase.
-```
+</div>
