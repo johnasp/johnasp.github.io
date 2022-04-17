@@ -89,7 +89,7 @@ I held a brief meeting with the product owner and developer to present the
 low-fidelity wireframes which I used as a starting point to discuss the most
 suitable option to solve the problem.
 
-<img src="/img/rc/none-airport-wires.jpg">
+<img src="/img/rc/na wires.png">
 _[Figure 1: Sketched wireframes for potential solutions]_
 
 Following a review of the wireframes, it was agreed that we go with the following
