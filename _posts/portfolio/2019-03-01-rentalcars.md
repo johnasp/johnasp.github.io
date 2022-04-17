@@ -14,23 +14,14 @@ category: Portfolio
 excerpt: Ideation and implementation of an improved UX for a 'none airport' search traffic which resulted in a 8% increase in conversion rates.
 ---
 
+**Client:** RentalCars.com
+**Date:** 18th February 2019
+**Platform:** Web
+**Goal:** Improve conversion rate by at least 5% for users in the non-airport sales funnel.
+**Responsibilities:**  Discovery, design and testing of new UI component to capture precise location data and present relevant car hire search results to the user.
+**UX methods:**  Sketching, ideation, reseach, visual design, prototyping, user testing,
+**Team members:**  John Aspinall - UX Designer, Khalid Lee Conway - Product Owner, Multiple developers
 
-```
-Client RentalCars.com
-Date 18th February 2019
-Platform Desktop web
-Goal Improve conversion rate by at least 5% for users
-in the non-airport sales funnel.
-Responsibilities Discovery, design and testing of suitable UI
-component to capture precise location data and
-present this to the user.
-UX methods used Sketching, competitor research, visual design,
-prototyping, user testing,
-Link to final project http://www.rentalcars.com
-Team members John Aspinall - UX Designer
-Khalid Lee Conway - Product Owner
-Multiple people - Developers
-```
 ### The problem
 
 Rentalcars.com is a car rental agency that allows a user to book a hire car from
@@ -168,44 +159,44 @@ which is the the design with the blue border and tab around the secondary search
 The following was a selection of the feedback received from the user testing sessions:
 
 **Persona Group B - ‘Euston’ search** 
-*Started typing in London in the primary search field to begin with.
-*Then started typing in Euston in the secondary field. Thought it was obvious that was what you were meant to do.
-*Found the interface easy to use.
-*When I asked; “If you didn't know you had to pick it up at Euston and just wanted the generic location in London”, she said she didn't know what to do and just said, “Surely I know where I am picking up from?”.
-*Did not cross my mind to just hit search.
+* Started typing in London in the primary search field to begin with.
+* Then started typing in Euston in the secondary field. Thought it was obvious that was what you were meant to do.
+* Found the interface easy to use.
+* When I asked; “If you didn't know you had to pick it up at Euston and just wanted the generic location in London”, she said she didn't know what to do and just said, “Surely I know where I am picking up from?”.
+* Did not cross my mind to just hit search.
 
 **Persona Group A - ‘London’ search** 
-*Talked through, said he would choose London and then did so
-*When the second box type came in he said he would just think of place in London that is central
-*Did not cross his mind to just hit search
-*When seeing the multiple choices for Euston on the interface, he thought customers could get confused and choose the wrong one.
+* Talked through, said he would choose London and then did so
+* When the second box type came in he said he would just think of place in London that is central
+* Did not cross his mind to just hit search
+* When seeing the multiple choices for Euston on the interface, he thought customers could get confused and choose the wrong one.
 
 **Persona Group B - ‘Euston’ search** 
-*Started typing - Said he would type in Euston immediately - prototype goes straight to London generic
-*When the second box came up - said he would search for Euston immediately.
-*When asked, if you didn't know where in London to pick up - he said he would find somewhere in London he wanted to pick up
-*Did not think to just hit search and search for all of London
+* Started typing - Said he would type in Euston immediately - prototype goes straight to London generic
+* When the second box came up - said he would search for Euston immediately.
+* When asked, if you didn't know where in London to pick up - he said he would find somewhere in London he wanted to pick up
+* Did not think to just hit search and search for all of London
 
 **Persona Group A - ‘London’ search** 
-*Started to type in London
-*When the second box appeared, she said she would want to type in her hotel or where it is she is staying
-*She said it wasn't too obvious what it is she needed to do and would prefer to see a drop-down list of locations
-*She said she would check google maps beforehand if there was a drop-down list and didn't know what the locations are
-*Didn't think to just hit search and search for all of London
+* Started to type in London
+* When the second box appeared, she said she would want to type in her hotel or where it is she is staying
+* She said it wasn't too obvious what it is she needed to do and would prefer to see a drop-down list of locations
+* She said she would check google maps beforehand if there was a drop-down list and didn't know what the locations are
+* Didn't think to just hit search and search for all of London
 
 **Persona Group B - ‘Euston’ search** 
-*Started typing, said he would have typed Euston station immediately, proto takes you to London
-*When the second box appeared he said he would type in Euston
-*From the choices that came, he said it wasn't obvious that Euston was the station on not a town. (he missed the label station)
-*When asked, if he didn't know where in London he said he didn't know what he would do.
+* Started typing, said he would have typed Euston station immediately, proto takes you to London
+* When the second box appeared he said he would type in Euston
+* From the choices that came, he said it wasn't obvious that Euston was the station on not a town. (he missed the label station)
+* When asked, if he didn't know where in London he said he didn't know what he would do.
 
 **Persona Group A - ‘London’ search** 
-*Started to type in London - when the options appeared he said he would have chosen victoria station from the suggestions because that's something he knows.
-*The second box appeared - he thought he lost his options - seemed really puzzled about what to do
-*After some questions said he would have typed in victoria stations cos that's where he knows.
-*Then hits search
-*Didn't think it was clear what he had to do until he read the tooltip.
-*Didn't think to just hit search.
+* Started to type in London - when the options appeared he said he would have chosen victoria station from the suggestions because that's something he knows.
+* The second box appeared - he thought he lost his options - seemed really puzzled about what to do
+* After some questions said he would have typed in victoria stations cos that's where he knows.
+* Then hits search
+* Didn't think it was clear what he had to do until he read the tooltip.
+* Didn't think to just hit search.
 
 ### Insights
 
@@ -247,5 +238,5 @@ did not behave exactly as I thought they might!
 The new search component was initially run in production as an A/B experiment where 50% of users performing the non-airport search got the original search component and the other 50% got the new secondary search field.  We ran the experiment for four weeks and before we turned it on, measured the conversion rate of each user who went on to book a car and performed a non-airport location search.  This was so we could compare and measure how successful the journey and UI performed against this benchmark figure.
 
 <div style="background-color: #feffe5d4; border: 1px solid #f39c12; padding: 12px; color: #8c5500; font-size: 20px;">
-When we turned the experiment on, we saw **conversion rates jump by 8%** over the four week experiment period. We also saw incereased engagement and the number of interactions on product details page by users in this funnel increase by 12% which was useful for increasing cross selling product numbers.  
+When we turned the experiment on, we saw <strong>conversion rates jump by 8%</strong> over the four week experiment period, which exceeded the goal of 5%.  We also saw incereased engagement and the number of interactions on product details page by users in this funnel increase by 12% which was useful for increasing cross selling product numbers.  
 </div>
