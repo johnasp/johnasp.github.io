@@ -74,6 +74,8 @@ shortlist of potential approaches and wrote each approach onto a post-it notes
 and stuck them on the wall in a discovery meeting with stakeholders and
 developers.
 
+<img src="/img/rc/na cards.png">
+
 I did this to give the ideas visibility and to encourage discussion on the most
 suitable solution(s) in the meetings.
 
@@ -88,8 +90,7 @@ low-fidelity wireframes which I used as a starting point to discuss the most
 suitable option to solve the problem.
 
 <img src="/img/rc/none-airport-wires.jpg">
-_[Figure 2: Sketched wireframes for potential solutions]_
-
+_[Figure 1: Sketched wireframes for potential solutions]_
 
 Following a review of the wireframes, it was agreed that we go with the following
 solution:
@@ -120,11 +121,8 @@ We chose this solution to take to design and prototype for the reasons:
 ## Visual Design
 
 Following agreement on which approach to take, I designed high fidelity screen
-mockups with, two variations on the style of the new search field. I also
-designed a screen for each stage in the search journey of the new interface.
-The image below _[Figure 3]_ was the search component in its original state:
+mockups with two variations on the style of the new search field. 
 
-_[Figure 3: Current search component]_
 In my first variation _[figure 4]_ below, I added a blue border and step tab around a
 new secondary search field called “tailor pick up point”. The purpose of this was
 to visually draw the users' eyes to the field to encourage them to complete it.
