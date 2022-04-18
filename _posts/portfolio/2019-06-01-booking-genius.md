@@ -13,6 +13,24 @@ caption: Booking.com
 category: Portfolio
 excerpt: Mobile web application UI design and prototype production for Booking.com which helped launch a new product. 
 ---
+<style>
+    .fig-caption {
+        text-align: center;
+    }
+    .fig-caption em {
+        background: #fffcde;
+        text-align: center;
+        padding: 3px 6px;
+    }
+    .result {
+        background-color: #feffe5d4; 
+        border: 1px solid #f39c12; 
+        padding: 12px; 
+        color: #8c5500; 
+        font-size: 20px;       
+    }
+</style>  
+
 
 * **Client:** Booking.com
 * **Date:** 1st April 2020
@@ -40,13 +58,11 @@ The designs I worked on were also to be used as assets in the production of prot
 <img src="/img/booking-cars/bc-driver-details.png">
 <p class="fig-caption"><em>[My design 1 : Driver details page]</em></p>   
 
-<img src="/img/booking-cars/bc-extras.png.png">
+<img src="/img/booking-cars/bc-extras.png">
 <p class="fig-caption"><em>[My design 2 : Car Extras page]</em></p>   
 
 <img src="/img/booking-cars/bc-lister.png">
 <p class="fig-caption"><em>[My design 3 : Search listings page</em></p>   
-
-
 
 ### Post-Booking 
 
@@ -54,13 +70,8 @@ The designs I worked on were also to be used as assets in the production of prot
 
 ### Genius progam mobile app
 
-Booking.com initiated a brand new loyalty program called “Genius” whereby a user was rewarded with points the more car rental bookings he or she made. These points could then be redeemed with discounts and special deals offered to users on future bookings offers.  I was tasked with designing  prototypes for Cars mobile app which illustrated this new functionality.  A sample of one section of the prototypes I developed can be viewed below:
-
-<iframe style="margin-top: 40px; margin-bottom: 40px;" width="560" height="315" src="https://www.youtube.com/embed/EDh9_Y3vKhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Booking.com initiated a brand new loyalty program called “Genius” whereby a user was rewarded with points the more car rental bookings he or she made. These points could then be redeemed with discounts and special deals offered to users on future bookings offers.  
 
 The prototype I designed and produced was used in user testing sessions to validate the product.  Following a couple of rounds of iterative redesign, based on the user testing feedback, the prototype was signed off and sent to the development team for production and eventual release into the mobile app. 
 
-
-
-
-
+<iframe  width="560" height="315" src="https://www.youtube.com/embed/EDh9_Y3vKhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
