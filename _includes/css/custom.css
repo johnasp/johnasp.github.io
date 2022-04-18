@@ -356,4 +356,20 @@ section h2 {
   padding-bottom: 0;
 }
 
+.fig-caption {
+  text-align: center;
+}
+.fig-caption em {
+  background: #fffcde;
+  text-align: center;
+  padding: 3px 6px;
+}
+.result {
+  background-color: #feffe5d4; 
+  border: 1px solid #f39c12; 
+  padding: 12px; 
+  color: #8c5500; 
+  font-size: 20px;       
+}
+
 /*# sourceMappingURL=custom.css.map */
