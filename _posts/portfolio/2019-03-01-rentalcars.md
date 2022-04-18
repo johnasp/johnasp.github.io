@@ -199,6 +199,9 @@ The following was a selection of the feedback received from the user testing ses
 * When asked, if you didn't know where in London to pick up - he said he would find somewhere in London he wanted to pick up
 * Did not think to just hit search and search for all of London
 
+<img src="/img/rc/rc-london.png">
+<p class="fig-caption"><em>[Search listing page yielding more accurate rersults]</em></p>   
+
 **Persona Group A - ‘London’ search** 
 * Started to type in London
 * When the second box appeared, she said she would want to type in her hotel or where it is she is staying
@@ -228,6 +231,8 @@ The main takeaway points from the user testing were:
 2. Only one person went to type ‘Euston’ in the primary search field.
 3. Several users seem confused by the secondary search field until they clicked the help icon, we had assumed it would be obvious what to do here!
 4. The majority of users reported that they thought the second field was mandatory, particularly in the design variation where the field had a blue border and tab around it.
+
+
 
 The insights obtained from the user testing helped in selecting a design option.  The blue border and tab in solution one made it appear as if the field was mandatory (it wasn't) and we didn’t want users potential dropping out of the funnel at this critical stage, so decided to drop solution one and go with solution two.
 
@@ -259,8 +264,7 @@ did not behave exactly as I thought they might!
 
 The new search component was initially run in production as an A/B experiment where 50% of users performing the non-airport search got the original search component and the other 50% got the new secondary search field.  We ran the experiment for four weeks and before we turned it on, measured the conversion rate of each user who went on to book a car and performed a non-airport location search.  This was so we could compare and measure how successful the journey and UI performed against this benchmark figure.
 
-<img src="/img/rc/rc-london.png>
-<p class="fig-caption"><em>[A user on the coversion journey listing page]</em></p>   
+
 
 
 <div class="result">
