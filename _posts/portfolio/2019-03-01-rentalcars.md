@@ -170,8 +170,11 @@ pick up the car? What would they do?
 I ran the test on fifty test subjects, three of which adopted the persona ‘A’ group, and the
 other three personas ‘B’.
 
-Included here [is a link to the prototype based on Solution 1 above](https://www.sketch.com/s/116913bf-ef7d-4a6d-a67a-a1e5cea23e80/a/xnoDyW/play)
-which is the the design with the blue border and tab around the secondary search input field.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcFqoXRtW8c?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p class="fig-caption"><em>[Example of prototype in action]</em></p> 
+
+Included here [is a link to the basic clickable prototype based on Solution 1 above](https://www.sketch.com/s/116913bf-ef7d-4a6d-a67a-a1e5cea23e80/a/xnoDyW/play){:target="_blank"} which is the the design with the blue border and tab around the secondary search input field.
 
 ### Observations
 
@@ -255,6 +258,10 @@ did not behave exactly as I thought they might!
 ## Result
 
 The new search component was initially run in production as an A/B experiment where 50% of users performing the non-airport search got the original search component and the other 50% got the new secondary search field.  We ran the experiment for four weeks and before we turned it on, measured the conversion rate of each user who went on to book a car and performed a non-airport location search.  This was so we could compare and measure how successful the journey and UI performed against this benchmark figure.
+
+<img src="/img/rc/rc-london.png>
+<p class="fig-caption"><em>[A user on the coversion journey listing page]</em></p>   
+
 
 <div class="result">
 When we turned the experiment on, we saw <strong>conversion rates jump by 8%</strong> over the four week experiment period, which exceeded the goal of 5%.  We also saw incereased engagement and the number of interactions on product details page by users in this funnel increase by 12% which was useful for increasing cross selling product numbers.  
