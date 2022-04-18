@@ -19,7 +19,7 @@ excerpt: Ideation and implementation of an improved UX for a 'none airport' sear
 * **Project:**  Capture precise user location and present more relevant car hire search results for users in the non-airport sales funnel
 * **Goal:** Improve conversion rate by at least 5% for user in this sales funnel 
 
-### The problem
+### The client & project
 
 Rentalcars.com is a car rental agency that allows a user to book a hire car from
 numerous partner branches located throughout the world. The branches are
