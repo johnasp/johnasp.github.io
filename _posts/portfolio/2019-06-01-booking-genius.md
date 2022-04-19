@@ -59,7 +59,9 @@ The designs I worked on were also to be used as assets in the production of prot
 
 <iframe  width="560" height="315" src="https://www.youtube.com/embed/EDh9_Y3vKhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Post-Booking 
+### My reservation and post-booking
+
+I also worked with in a team to improve the user flows and UI & UX of the "My Reservation" area of the website.  The m
 
 *  Web flow diagrams to <a href="/pdf/genius-amend-extras.pdf">illustrate the proposed user journeys to improve amend booking user journeys </a> 
 
